@@ -1,0 +1,10 @@
+{
+  "name": "selenium-example",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "selenium-webdriver": "^3.5.0"
+  },
+  "author": "Alexander Melnik",
+  "license": "ISC"
+}
